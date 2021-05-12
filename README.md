@@ -1,4 +1,4 @@
-# Webpage-by-html_creating-a-form
+# Webpage-by-html
 ## Steps to Create a Webpage in HTML using Notepad
 
 A website is simply a collection of web-pages. A web page or web documents written in HTML (HyperText Markup Language). These Web pages can be viewed using any web browser and Internet.
