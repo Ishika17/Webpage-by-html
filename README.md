@@ -14,7 +14,6 @@ There are many advanced HTML editor or software are also available. However, we 
 ## Creating a Simple HTML Page using Notepad Editor
 
 - Open Notepad (Windows)
-- Open Notepad (Windows)
    
   Go to Notepad Menu: File > New
 
